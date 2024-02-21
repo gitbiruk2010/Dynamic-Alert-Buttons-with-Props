@@ -23,7 +23,7 @@ Before you begin, ensure you have the latest version of [Node.js](https://nodejs
 Clone the repository to your local machine:
 
 Powershell
-git clone 
+git clone https://github.com/gitbiruk2010/Dynamic-Alert-Buttons-with-Props
 cd to the directory of the project
 Install the necessary packages:
 
