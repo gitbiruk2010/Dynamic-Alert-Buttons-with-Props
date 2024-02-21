@@ -1,5 +1,5 @@
 # Dynamic-Alert-Buttons-with-Props
-# Project B: Dynamic Alert Buttons (A modified version of 'Custom-Buttons-With-Props'
+# Project B: Dynamic Alert Buttons (A modified version of 'Custom-Alert-Buttons-in-React'
 ![Landing page](https://github.com/gitbiruk2010/Dynamic-Alert-Buttons-with-Props/assets/103274295/8d708fd6-b213-4ca7-987d-47a5b8c791f5)
 ![Sample screenshot](https://github.com/gitbiruk2010/Dynamic-Alert-Buttons-with-Props/assets/103274295/79ce1d37-46e6-41ac-aed1-7ce3a6986984)
 
